@@ -8,7 +8,7 @@ the students from mits are intelligents
 2. pavani
 3. muzmil
 - chaitanya
- - sunayana
+   - sunayana
 - chandu
 + jyothi
 _damareswar_
